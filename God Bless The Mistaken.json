@@ -4,5 +4,14 @@
   "artist": "Nakatani Nio",
   "author": "Nakatani Nio",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1662602162",
+      "groups": {
+        "Yeah": "/proxy/api/imgur/chapter/2t4msD6"
+      }
+    }
+  }
 }
